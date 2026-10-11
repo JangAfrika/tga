@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as m}from"../../app.js";import"../../vendor.js";o("documents/library",m);
+/* Documents (documents/library.html) */
+TGA.mount('documents/library');

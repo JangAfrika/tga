@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m,C as o}from"../../app.js";import"../../vendor.js";m("lms/submissions",o);
+/* Submissions (lms/submissions.html) */
+TGA.mount('lms/submissions');

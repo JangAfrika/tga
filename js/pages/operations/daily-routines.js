@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as i}from"../../app.js";import"../../vendor.js";o("operations/daily-routines",i);
+/* Daily Routines (operations/daily-routines.html) */
+TGA.mount('operations/daily-routines');

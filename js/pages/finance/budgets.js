@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as m}from"../../app.js";import"../../vendor.js";o("finance/budgets",m);
+/* Budgets (finance/budgets.html) */
+TGA.mount('finance/budgets');

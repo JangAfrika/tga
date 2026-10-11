@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m,C as o}from"../../app.js";import"../../vendor.js";m("lms/syllabus",o);
+/* Syllabus (lms/syllabus.html) */
+TGA.mount('lms/syllabus');

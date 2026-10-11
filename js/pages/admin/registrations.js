@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as i,R as t}from"../../app.js";import"../../vendor.js";i("admin/registrations",t);
+/* Account Review (admin/registrations.html) */
+TGA.mount('admin/registrations');

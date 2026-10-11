@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m,C as o}from"../../app.js";import"../../vendor.js";m("academic/subjects",o);
+/* Subjects (academic/subjects.html) */
+TGA.mount('academic/subjects');

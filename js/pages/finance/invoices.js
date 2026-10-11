@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as i}from"../../app.js";import"../../vendor.js";o("finance/invoices",i);
+/* Invoices & Fees (finance/invoices.html) */
+TGA.mount('finance/invoices');

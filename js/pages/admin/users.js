@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m,U as r}from"../../app.js";import"../../vendor.js";m("admin/users",r);
+/* Users (admin/users.html) */
+TGA.mount('admin/users');

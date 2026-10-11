@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as m}from"../../app.js";import"../../vendor.js";o("attendance/registers",m);
+/* Attendance Registers (attendance/registers.html) */
+TGA.mount('attendance/registers');

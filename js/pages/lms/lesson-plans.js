@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as m}from"../../app.js";import"../../vendor.js";o("lms/lesson-plans",m);
+/* Lesson Plans (lms/lesson-plans.html) */
+TGA.mount('lms/lesson-plans');

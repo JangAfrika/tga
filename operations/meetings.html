@@ -7,17 +7,16 @@
     <!-- Way back to the site root, used for links between pages. -->
     <meta name="tga-root" content="../">
     <title>Meetings · The Gambia Academy</title>
-    <!-- Settings that change per deployment (API address). Edit config.js; no rebuild needed. -->
-    <script src="../config.js"></script>
-    <script type="module" crossorigin src="../js/pages/operations/meetings.js"></script>
-    <link rel="modulepreload" crossorigin href="../js/modulepreload-polyfill.js">
-    <link rel="modulepreload" crossorigin href="../js/vendor.js">
-    <link rel="modulepreload" crossorigin href="../js/app.js">
-    <link rel="stylesheet" crossorigin href="../css/app.css">
+    <link rel="stylesheet" href="../css/app.css">
   </head>
   <body>
     <div id="root"></div>
     <noscript>The TGA system needs JavaScript enabled.</noscript>
-    <!-- Generated from src/site.js by scripts/make-pages.js. -->
+    <!-- Settings (API address): edit config.js, no rebuild needed. -->
+    <script src="../config.js"></script>
+    <!-- Shared code for every page (React, sign-in, menu, screens). -->
+    <script src="../js/app.js"></script>
+    <!-- This page. -->
+    <script src="../js/pages/operations/meetings.js"></script>
   </body>
 </html>

@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m,C as o}from"../../app.js";import"../../vendor.js";m("academic/years-terms",o);
+/* Academic Years & Terms (academic/years-terms.html) */
+TGA.mount('academic/years-terms');

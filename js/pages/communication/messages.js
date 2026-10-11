@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m,C as o}from"../../app.js";import"../../vendor.js";m("communication/messages",o);
+/* Messages (communication/messages.html) */
+TGA.mount('communication/messages');

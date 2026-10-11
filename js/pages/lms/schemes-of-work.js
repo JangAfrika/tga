@@ -1,1 +1,2 @@
-import"../../modulepreload-polyfill.js";import{m as o,C as m}from"../../app.js";import"../../vendor.js";o("lms/schemes-of-work",m);
+/* Schemes of Work (lms/schemes-of-work.html) */
+TGA.mount('lms/schemes-of-work');
