@@ -5,6 +5,6 @@
  * apiUrl: the Apps Script web app URL (Deploy → Manage deployments → Web app URL), ending in /exec.
  */
 window.TGA_CONFIG = {
-  apiUrl: 'https://script.google.com/macros/s/AKfycbz4fedt3vXnpB8dQGEhS2o6tT5pP5ItWEJz1JrZ9Y_vtRRZma-7YSi9UObZmEsklqEf/exec',
+  apiUrl: 'https://script.google.com/macros/s/AKfycbzCDhcCWkO5LJI0MIxLHSj5-uKIcEWdJuK4ZUCziSUGtnfXzeH0DvSGXouDIdDHtd3-/exec',
   appName: 'The Gambia Academy'
 };
