@@ -6,7 +6,7 @@
  *   comes from the network. Changes to config.js are picked up on the next page opened.
  * Each build writes its own version below, so a new upload replaces the old saved files.
  */
-const VERSION = '20261107004009';
+const VERSION = '20261107074455';
 const CACHE = 'tga-' + VERSION;
 const CORE = ['js/app.js?v=' + VERSION, 'css/app.css?v=' + VERSION, 'logo.png', 'icons/icon-192.png', 'manifest.webmanifest'];
 
