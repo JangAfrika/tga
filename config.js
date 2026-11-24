@@ -9,7 +9,7 @@
  *   The server also needs the service account (Script property FCM_SERVICE_ACCOUNT, see DEPLOY.md).
  */
 window.TGA_CONFIG = {
-  apiUrl: 'https://script.google.com/macros/s/AKfycbzNi4NpHw5h8j7_qOFDKhtnE7zxJ_grl4tTmF1IpsLI4-zY4393fGVSm18rPkX8kLee/exec',
+  apiUrl: 'https://script.google.com/macros/s/AKfycbzOkMpmqkUOUNVe7P-BBSHaH2QoKuSH-wryy6n2quaLty3v3-ElLQNmj8yGtxzkLZJs/exec',
   appName: 'The Gambia Academy',
   googleClientId: '985953295183-9phpbs5vl22pn8hit8b5kh0d5ijo1lme.apps.googleusercontent.com',
   liveSeconds: 15,
